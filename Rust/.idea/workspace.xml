@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/main/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="209a2968-31cc-48ea-b40b-800287b27c67" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ppm" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="oyyBwmDA" />
+  </component>
+  <component name="ProjectId" id="1XlbGrJRdVVkSPGSF9NuWZqOpPQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/main/src" />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/main/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Run main" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="run --package main --bin main" />
+      <option name="allFeatures" value="false" />
+      <option name="nocapture" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$/main" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cargo Command.Run main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+    <option name="version" value="2" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="209a2968-31cc-48ea-b40b-800287b27c67" name="Default Changelist" comment="" />
+      <created>1581623535963</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581623535963</updated>
+      <workItem from="1581623538140" duration="53000" />
+      <workItem from="1581623598744" duration="1015000" />
+      <workItem from="1581631861357" duration="24655000" />
+      <workItem from="1581679735502" duration="2455000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="125" y="214" width="800" height="677" key="#Notifications" timestamp="1581640018801">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="125" y="214" width="800" height="677" key="#Notifications/67.27.1853.1053@67.27.1853.1053" timestamp="1581640018801" />
+    <state x="199" y="357" width="653" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581651970456">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="199" y="357" width="653" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1581651970456" />
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1581623631333">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1581623631333" />
+    <state width="881" height="278" key="GridCell.Tab.0.bottom" timestamp="1581682724034">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="881" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1581682724034" />
+    <state width="881" height="278" key="GridCell.Tab.0.center" timestamp="1581682724032">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="881" height="278" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1581682724032" />
+    <state width="881" height="278" key="GridCell.Tab.0.left" timestamp="1581682724030">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="881" height="278" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1581682724030" />
+    <state width="881" height="278" key="GridCell.Tab.0.right" timestamp="1581682724033">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="881" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1581682724033" />
+    <state x="482" y="188" key="SettingsEditor" timestamp="1581640027945">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="482" y="188" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1581640027945" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1581679752099">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1581679752099" />
+    <state x="193" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1581651304900">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="193" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1581651304900" />
+  </component>
+</project>
